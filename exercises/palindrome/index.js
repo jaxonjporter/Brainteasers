@@ -12,3 +12,10 @@
   }
 
 module.exports = palindrome;
+
+
+
+// for a more complete solution with spaces =>
+// const pal = (str) => {
+//    return str.split(' ').join('').split('')reverse().join('') === str.split(' ').join('')
+// }
